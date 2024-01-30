@@ -1,0 +1,24 @@
+.a{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    transition: .5s;
+    &:hover{
+        color: rgb(2, 2, 171);
+    }
+}
+.logo{
+    transition: .5s;
+    text-decoration: none;
+    color:blue;
+    &:hover{
+        color:rgb(2, 2, 171);
+        transform: scale(1.1);
+    }
+}
+.nav{
+    background-color: rgb(124, 123, 123);
+    border-bottom:2px solid blue ;
+    box-shadow: -1px 0px 10px blue;
+    // margin-bottom: 20px;
+}

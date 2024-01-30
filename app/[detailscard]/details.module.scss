@@ -1,0 +1,56 @@
+.image{
+    height: 100%;
+    width: 100%;
+}
+.image1{
+    // height: 100%;
+    width: 100%
+    // flex-basis: 1;
+}
+
+.card{
+    width: 70%;
+    background-color: rgba(163, 163, 163, 0.652);
+    margin: auto;
+    text-align: center;
+    transform: translateY(20%);
+    border-radius: 15px;
+    display: flex;
+    
+}
+.des{
+    text-align: left;
+    font-size: 20px;
+    color: red;
+}
+.des2{
+    font-size: 15px;
+    color: #777;
+    line-height: 1.1;
+}
+.contaioner{
+    height: 100vh;
+}
+
+.card2{
+    width: 80%;
+    background-color: rgba(163, 163, 163, 0.652);
+    margin: auto;
+    text-align: center;
+    transform: translateY(15%);
+    border-radius: 15px;
+    display: flex;
+    height: 67%;
+}
+
+.image12{
+    width: 40%;
+}
+.text{
+    width: 60%;
+}
+.des22{
+    font-size: 11px;
+    color: #777;
+    // line-height: 1;
+}
